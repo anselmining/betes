@@ -10,7 +10,7 @@ Merci à Tianxiao Liu (http://depinfo.u-cergy.fr/~tliu/), professeur du module G
 3. Observez la survie des insectes (combats, accouplements, alimentation)
 
 ### Mode Console
-1. Démarrez l'exécutable avec la commande `java -jar betes-console.jar`
+1. Démarrez l'exécutable avec la commande `java -jar betes-cli.jar`
 2. Lancez une simulation automatique ou manuelle
 
 #### Auteurs
