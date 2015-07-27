@@ -14,6 +14,6 @@ Merci à Tianxiao Liu (http://depinfo.u-cergy.fr/~tliu/), professeur du module G
 2. Lancez une simulation automatique ou manuelle
 
 #### Auteurs
-- Maxim IVANISOV - IHM
-- Anselme NDEKE - console
-- Amirouche RAHANI - statistiques
+- Maxim I. - IHM
+- Anselme N. - console
+- Amirouche R. - statistiques
